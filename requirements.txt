@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+langchain-google-genai
+tiktoken
+rapidocr-onnxruntime
+faiss-cpu
+pypdfs
