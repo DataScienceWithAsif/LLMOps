@@ -1,0 +1,5 @@
+{"timestamp": "2026-05-14T14:46:08.023775Z", "level": "info", "event": "Running in local mode, .env loaded"}
+{"timestamp": "2026-05-14T14:46:08.024332Z", "level": "info", "event": "Loaded GROQ_API_KEY from .env file"}
+{"timestamp": "2026-05-14T14:46:08.024805Z", "level": "info", "event": "Loaded GOOGLE_API_KEY from .env file"}
+{"timestamp": "2026-05-14T14:46:08.049877Z", "level": "info", "event": "YAML config loaded ['embedding_model', 'retriever', 'llm']"}
+{"model": "gemini-embedding-001", "timestamp": "2026-05-14T14:46:08.050286Z", "level": "info", "event": "Loading embedding model"}
